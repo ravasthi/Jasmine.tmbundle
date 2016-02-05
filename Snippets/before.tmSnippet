@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>beforeEach(function () {
+	<string>before(function () {
   $0
 });</string>
 	<key>name</key>
-	<string>before each</string>
+	<string>before</string>
 	<key>scope</key>
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
-	<string>bef</string>
+	<string>befa</string>
 	<key>uuid</key>
-	<string>C32FD427-4E1F-4BBC-A9FF-023DA465629F</string>
+	<string>5FEEFBFD-F480-471C-86D0-3B7678379911</string>
 </dict>
 </plist>
